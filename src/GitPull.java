@@ -7,4 +7,5 @@ public class GitPull {
     int e;
     int f;
     int g;
+    int h;
 }
