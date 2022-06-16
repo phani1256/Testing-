@@ -9,4 +9,5 @@ public class GitPull {
     int g;
     int h;
     int i;
+    int j;
 }
