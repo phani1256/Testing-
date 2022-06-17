@@ -12,4 +12,5 @@ public class GitPull {
     int j;
     int k;
     int l;
+    int m;
 }
